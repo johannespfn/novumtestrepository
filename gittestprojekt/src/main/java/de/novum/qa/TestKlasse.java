@@ -7,6 +7,7 @@ public class TestKlasse {
      */
     public static void main(final String[] args) {
         System.out.println("Mal schaun!");
+        System.out.println("new changes");
     }
 
 }
